@@ -1,0 +1,18 @@
+.btncolor:hover {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+  }
+  .btncolor {
+    background-color: #FF3B3F !important;
+    color: #ffffff !important;
+  }
+
+  .alcenter {
+    display: flex;
+    width: 90%;
+    max-width: 60%;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+

@@ -1,0 +1,87 @@
+  .blcolor {
+    color: #000000 !important;
+  }
+
+  .errorcolor {
+    color: rgb(151, 8, 8) !important;
+  }
+
+  .topnav a:hover {
+    border-bottom: 3px solid #FF3B3F;
+    color:#FF3B3F !important;
+  }
+
+  .home a:hover {
+    border-bottom: 3px solid #FF3B3F;
+    color:#FF3B3F !important;
+  }
+
+  .navbar-nav > li{
+  
+    padding-right:30px;
+  }
+ 
+  .btncolor1 :hover{
+    color:#FF3B3F !important;
+  }
+
+
+  .input-block {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px 8px;
+    border: 1px rgb(245, 233, 218);
+    border-radius: 4px;
+    margin-bottom: 20px;
+    transition: 0.3s;
+  }
+
+  .input-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.7px;
+    color: #0c0907;
+    transition: 0.3s;
+  }
+
+  .modal_bg{
+    background-color: rgb(245, 233, 218);
+  }
+
+  .SearchButton {
+    background-color:#555555 !important;
+    color: white !important;
+    border: none !important;
+    padding: 6px 20px !important;
+    border-radius: 20px !important;
+ }
+  .button {
+    background-color:#555555;
+    color: white;
+    border: none;
+    padding: 6px 30px;
+    border-radius: 10px;
+ }
+
+
+
+
+.cnt {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+ 
+ 
+
+  
+
+
+
+
+ 
